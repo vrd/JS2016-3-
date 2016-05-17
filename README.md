@@ -49,6 +49,8 @@ FAQ
 
 ## Kharkiv:
 
+[termosa/kottans-js-2016](https://github.com/termosa/kottans-js-2016)
+
 ## Lviv:
 
 8. Я выполнил все задания и прошел курс. Что делать?
