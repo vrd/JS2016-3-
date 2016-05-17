@@ -46,7 +46,7 @@ FAQ
 Сюда с помощью PR(pull request):
 
 ## Kiev:
-
+[evashchuk/kottans-js-2016-hw](https://github.com/evashchuk/kottans-js-2016-hw.git)
 ## Kharkiv:
 
 ## Lviv:
