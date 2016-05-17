@@ -46,7 +46,8 @@ FAQ
 Сюда с помощью PR(pull request):
 
 ## Kiev:
-+ [evashchuk/kottans-js-2016-hw](https://github.com/evashchuk/kottans-js-2016-hw.git)  
++ [evashchuk/kottans-js-2016-hw](https://github.com/evashchuk/kottans-js-2016-hw.git)
++ [mcmxc/kottns-hw](https://github.com/mcmxc/kottns-hw.git)
 
 ## Kharkiv:
 + [termosa/kottans-js-2016](https://github.com/termosa/kottans-js-2016)  
