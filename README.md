@@ -50,7 +50,7 @@ FAQ
 + [mcmxc/kottns-hw](https://github.com/mcmxc/kottns-hw.git)
 + [imbaniac/Kottans-JS-2016](https://github.com/imbaniac/Kottans-JS-2016)
 + [kyriiherman/kottans-js-2016](https://github.com/kyriiherman/kottans-js-2016.git)
-+ [ienovytskyi/kottans-js-2016] (https://github.com/ienovytskyi/kottans-js-2016.git)
++ [ienovytskyi/kottans-js-2016](https://github.com/ienovytskyi/kottans-js-2016.git)
 + [quodnon/catwork-js-2016](https://github.com/quodnon/catwork-js-2016.git)
 + [cwayfinder/kottans-js-2016](https://github.com/cwayfinder/kottans-js-2016) 
 + [alexey-kuliw/kottans-homework](https://github.com/alexey-kuliw/kottans-homework.git)  
