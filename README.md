@@ -45,6 +45,7 @@ FAQ
 ## Kharkiv:
 
 ## Lviv:
++ [lolochka/kottans-js-2016](https://github.com/lolochka/kottans-js-2016)
 
 8. Я выполнил все задания и прошел курс. Что делать?
 ---------------------------
