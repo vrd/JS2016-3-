@@ -49,6 +49,7 @@ FAQ
 + [evashchuk/kottans-js-2016-hw](https://github.com/evashchuk/kottans-js-2016-hw.git)
 + [mcmxc/kottns-hw](https://github.com/mcmxc/kottns-hw.git)
 + [imbaniac/Kottans-JS-2016](https://github.com/imbaniac/Kottans-JS-2016)
+
 ## Kharkiv:
 + [termosa/kottans-js-2016](https://github.com/termosa/kottans-js-2016)  
 + [PShatalov/kottans-js-2016](https://github.com/PShatalov/kottans-js-2016.git)
@@ -56,7 +57,6 @@ FAQ
 
 ## Lviv:
 + [lolochka/kottans-js-2016](https://github.com/lolochka/kottans-js-2016)
-
 + [Zavorotyuk/kottans-js-2016](https://github.com/Zavorotyuk/kottans-js-2016.git)
 8. Я выполнил все задания и прошел курс. Что делать?
 ---------------------------
