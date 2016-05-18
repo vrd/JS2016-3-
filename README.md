@@ -70,6 +70,7 @@ FAQ
 + [Zavorotyuk/kottans-js-2016](https://github.com/Zavorotyuk/kottans-js-2016.git)
 + [igordubovoy/kottans-js-2016](https://github.com/igordubovoy/JS2016-3-.git)
 + [Leomund/kottans-js-2016](https://github.com/Leomund/kottans-js-2016.git)
++ [Zaleskyy/kottans-js-2016](https://github.com/zalesky/JS2016-3-.git)
 8. Я выполнил все задания и прошел курс. Что делать?
 ---------------------------
 Спусти лифт вниз.Учи и помогай другим
