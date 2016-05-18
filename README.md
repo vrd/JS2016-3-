@@ -55,6 +55,7 @@ FAQ
 + [Al4evec/Kottans-JS-2016](https://github.com/Al4evec/Kottans-JS-2016.git)
 
 ## Lviv:
++ [lolochka/kottans-js-2016](https://github.com/lolochka/kottans-js-2016)
 
 + [Zavorotyuk/kottans-js-2016](https://github.com/Zavorotyuk/kottans-js-2016.git)
 8. Я выполнил все задания и прошел курс. Что делать?
