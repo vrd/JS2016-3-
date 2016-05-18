@@ -49,11 +49,19 @@ FAQ
 + [evashchuk/kottans-js-2016-hw](https://github.com/evashchuk/kottans-js-2016-hw.git)
 + [mcmxc/kottns-hw](https://github.com/mcmxc/kottns-hw.git)
 + [imbaniac/Kottans-JS-2016](https://github.com/imbaniac/Kottans-JS-2016)
++ [kyriiherman/kottans-js-2016](https://github.com/kyriiherman/kottans-js-2016.git)
++ [ienovytskyi/kottans-js-2016] (https://github.com/ienovytskyi/kottans-js-2016.git)
++ [quodnon/catwork-js-2016](https://github.com/quodnon/catwork-js-2016.git)
++ [cwayfinder/kottans-js-2016](https://github.com/cwayfinder/kottans-js-2016) 
++ [alexey-kuliw/kottans-homework](https://github.com/alexey-kuliw/kottans-homework.git)  
 
 ## Kharkiv:
 + [termosa/kottans-js-2016](https://github.com/termosa/kottans-js-2016)  
 + [PShatalov/kottans-js-2016](https://github.com/PShatalov/kottans-js-2016.git)
 + [Al4evec/Kottans-JS-2016](https://github.com/Al4evec/Kottans-JS-2016.git)
++ [KBoyarchuk/kottans-js-2016](https://github.com/KBoyarchuk/kottans-js-2016)
++ [alexanderKw/kottans-js-2016](https://github.com/alexanderKw/kottans-js-2016.git)
++ [SergDi/kottans-js-2016](https://github.com/SergDi/kottans-js-2016.git)
 
 ## Lviv:
 + [lolochka/kottans-js-2016](https://github.com/lolochka/kottans-js-2016)
